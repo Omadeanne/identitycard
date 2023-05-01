@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    border-radius: 10px;
+}
+
+
+.theme{
+    background-color: rgb(197, 145, 49) ;
+    margin: 20px 20px ;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+
+
+
+.name{
+    background-color: rgb(197, 145, 49);
+    margin: 20px 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.name > h2 {
+
+    color: white;
+
+}
+
+.paragraph{
+    background-color: rgb(106, 76, 37);
+    margin: 20px 20px ;
+    padding: 20px;
+    border-radius: 10px;
+
+
+}
+
+.paragraph > p {
+
+    color: white;
+}
+
+h1,h2,p ,h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.enclosing{
+    color: white;
+    background-color: chocolate;
+    margin: 20px 20px ;
+    padding: 20px;
+    border: 2px skyblue rgb(86, 88, 142);
+    border-radius: 10px;
+}
+
+
+
+
+
+
